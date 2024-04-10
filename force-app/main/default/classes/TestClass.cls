@@ -1,5 +1,5 @@
 public class TestClass {
     public static void printMessage(){
-        System.debug('This is a Demo Message 123 123');
+        System.debug('This is a Demo Message');
     }
 }
